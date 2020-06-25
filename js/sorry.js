@@ -107,8 +107,8 @@ function getMessage(num){
 
             case 12:
                 
-                message = "You have have to find another player in five seconds\n"
-                + "and push him/her up the slide";
+                message = "Find the closest player\n"
+                + "and push him/her up the closest slide to that player\n" + "Then! You go DOWN the closest slide to that slide!";
                 printCard("STOPPY SLIDEY", message);
                 break;
 
